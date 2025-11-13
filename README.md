@@ -6,6 +6,9 @@ A simple stock market simulator written in TypeScript.
 - Outputs stock prices at regular intervals.
 - Configurable number of stocks and update intervals.
 
+## Application Idea
+StockSim emulates a lightweight electronic market where synthetic prices stream into observers, an automated strategy reacts with limit orders, and a portfolio component tracks fills and cash—providing a sandbox for experimenting with algorithmic trading concepts without real-market risk.
+
 ## Installation
 1. Clone the repository:
     ```bash
